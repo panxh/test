@@ -1,6 +1,6 @@
 <?php
 
-die("<pre>abc</pre>")
+echo("hello world");
 
 
 ?>
