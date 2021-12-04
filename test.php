@@ -1,6 +1,6 @@
 <?php
 
- phpinfo();
+die("<pre>abc</pre>")
 
 
 ?>
